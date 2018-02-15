@@ -74,3 +74,10 @@ list:
     first_name: Andrea
     last_name: Barghigiani
     twitter: Andrea_AndMore
+  -
+    id: matteo-guidotto
+    description:
+    image: matteo-guidotto.jpg
+    first_name: Matteo
+    last_name: Guidotto
+    twitter: j8matteo
