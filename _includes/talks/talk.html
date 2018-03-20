@@ -1,5 +1,5 @@
 {% assign speaker_id = include.talk.speaker_id %}
-<article id="{{speaker_id}}" class="talk">      
+<article id="{{speaker_id}}" class="talk">
   <div class="talk__left">
     {% if include.talk.image %}
       <div class="talk__speaker" style="background-image:url('{{ site.baseurl }}/img/{{ site.data.conference.slug }}/speaker/{{ include.talk.image }}');"></div>
@@ -55,6 +55,16 @@
     </h3>
     <p class="talk__text">
       {{ include.talk.extract }}
+
+      <br>
+      {% if include.talk.slide %}
+        <a href="{{ include.talk.slide }}" target="_blank" class="talk__slide">slides</a>
+      {% endif %}
+      {% if include.talk.video %}
+        <a href="{{ include.talk.video }}" target="_blank" class="talk__video">video</a>
+      {% endif %}
+
+
     </p>
     <div class="talk__twitters">
       {% if speaker_id.first %}

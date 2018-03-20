@@ -8,53 +8,62 @@
   speaker_id: stefania-mellai
   title: "'arduino-sass' - Custom SASS framework, dal design all'implementazione"
   keynote: false
+  slide: https://www.slideshare.net/AndreaBarghigiani/modifichiamo-le-svg-con-i-css
   extract: >
    Storia della nascita di un framework per il riuso di componenti UI che contribuiscono alla definizione del brand aziendale (Arduino - https://www.arduino.cc). Implementazione ed evoluzione di una libreria SASS con variabili, tipografia e mixin. Integrazione con tool standard di gestione delle dipendenze (npm).
 -
   speaker_id: violo
   title: "Layout Saga - in the web application era"
   keynote: false
+  slide: https://www.slideshare.net/extrategy/css-day-2018-layout-saga-in-the-web-application-era
   extract: >
    "Il layout... contenitore dei nostri design pattern e delle funzionalità, scheletro delle nostre webapp che deve reagire ai diversi device e viewport. Sempre più spesso la buona logica di architettura del layout influisce sul debito tecnico, sulla bontà del codice e sul riuso. Una minuziosa saga delle varie tecniche realizzative di layout analizzate per features, limiti e compatibilità e la soluzione per metterli a styleguide pronti per essere implementati comodamente da tutto il team."
 -
   speaker_id: andrea-decarolis
   title: "Uno stile per ogni occasione"
   keynote: true
+  slide: https://speakerdeck.com/decarola/uno-stile-per-ogni-occasione
   extract: >
    "Il front end sta migliorando di anno in anno e il futuro pare riservare solo buone novelle. Come ogni progresso però, c’è un prezzo da pagare: la costante revisione degli strumenti e concetti sempre nuovi da assimilare. È possibile trovare un equilibrio tra la potenza del nuovo e la fatica del costante aggiornamento? Fermiamoci un momento e vediamo cosa ne pensano alcune menti brillanti (non la mia), e proviamo a tirare le somme."
 -
   speaker_id: giulia-laco
   title: "Web font mania – nel bene e nel male"
   keynote: false
+  slide: https://www.slideshare.net/giulialaco/web-font-mania-nel-bene-e-nel-male
   extract: >
    "I web font sono utilizzati ormai sulla quasi totalità dei nuovi siti web e non solo. Indubbiamente rappresentano una ghiotta opportunità per la comunicazione. Non sempre però gli utilizzatori sono consapevoli di tutte le conseguenze che ciò comporta: nel bene e nel male. Ragionamenti tecnici e strategici su come sceglierli, come usarli (buone pratiche di typesetting) e come implementarli con attenzione ai nuovi formati (woff2, variable font), alla performance e al progressive enhancement."
 -
   speaker_id: giacomo-zinetti
   title: "Super fast transitions"
   keynote: false
+  slide: https://cssday2018.slides.giko.it/#/
   extract: >
    "Cerchiamo di capire come migliorare i nostri siti e applicazioni web con animazioni e transizioni capaci di funzionare anche senza trasformare il vostro telefono in una piastra buona per cuocere le bistecche."
 -
   speaker_id: massimo-artizzu
   title: "Incapsulamento e theming: le nuove frontiere dell'ultima sfida CSS"
   keynote: false
+  slide: https://maxart2501.github.io/css-theming-talk/#/cover?cssday
   extract: >
    "La 'cascata' del CSS ci ha da sempre consentito di estendere e ridefinire regole e dichiarazioni di stile, ma più spesso si è rivelato uno strumento difficile da usare e controllare. Per questo abbiamo perseguito, e finalmente conquistato (con l'arrivo dei Web Component) l'incapsulamento degli stili. Tuttavia, la necessità rimane: come adattare un componente esterno al nostro design, se gli stili sono isolati? Vedremo in una panoramica le tecniche passate, presenti e future per lavorare con interfacce componentizzate senza sacrificare le nostre esigenze di design o la riusabilità degli elementi."
 -
   speaker_id: carmine-alfano
   title: "Media Queries Next Level"
   keynote: false
+  slide: https://www.slideshare.net/alfanocarmine/media-queries-next-level
   extract: >
    "È tempo di pensare alle nuove funzionalità introdotte nelle specifiche 'media queries level 4' che da poco hanno ottenuto lo stato di 'candidate recommendation' dal W3C. In questa sessione analizzeremo le principali novità e come sarà possibile utilizzare questo strumento per migliorare il nostro flusso di lavoro."
 -
   speaker_id: davide-dipumpo
   title: "Come Javascript ha cambiato il CSS"
   keynote: false
+  slide: https://speakerdeck.com/makhbeth/come-javascript-ha-cambiato-il-css
   extract: >
    "Le nostre applicazioni diventano sempre più Javascript centriche. Dai build tool ai template engine, dai server agli static site generator. Anche il CSS non è stato risparmiato da questa rivoluzione di paradigmi. Vedremo insieme come tool come i CSS modules, gli styled-components e node possono rendere il nostro CSS migliore"
    "È tempo di pensare alle nuove funzionalità introdotte nelle specifiche 'media queries level 4' che da poco hanno ottenuto lo stato di 'candidate recommendation' dal W3C. In questa sessione analizzeremo le principali novità e come sarà possibile utilizzare questo strumento per migliorare il nostro flusso di lavoro."
 -
   speaker_id: andrea-barghigiani
+  slide: https://www.slideshare.net/AndreaBarghigiani/modifichiamo-le-svg-con-i-css
   title: "Modifichiamo le nostre SVG grazie ai CSS"
   keynote: false
   extract: >
