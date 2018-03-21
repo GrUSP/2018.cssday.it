@@ -4474,6 +4474,22 @@ body {
   width: 100%;
 }
 
+.talk__media {
+  background-color: white;
+  clear: both;
+  color: #595959;
+  float: left;
+  font-size: 14px;
+  margin-left: -5px;
+  margin-top: -5px;
+  padding: 5px;
+  text-decoration: none;
+}
+
+.talk__media + .talk__media {
+  margin-top: 10px;
+}
+
 .talks-intro {
   margin-top: 80px;
 }

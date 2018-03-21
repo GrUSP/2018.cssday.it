@@ -123,4 +123,20 @@
   @include element ('twitter') {
     @include float-row;
   }
+
+  @include element ('media') {
+    background-color: $color-background-talk-highlight;
+    clear: both;
+    color: $color-text-schedule-speaker;
+    float: left;
+    font-size: 14px;
+    margin-left: s(-0.5);
+    margin-top: s(-0.5);
+    padding: s(0.5);
+    text-decoration: none;
+
+    & + & {
+      margin-top: s(1);
+    }
+  }
 }
