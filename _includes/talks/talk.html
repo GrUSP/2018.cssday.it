@@ -58,10 +58,16 @@
 
       <br>
       {% if include.talk.slide %}
-        <a href="{{ include.talk.slide }}" target="_blank" class="talk__slide">slides</a>
+        <a href="{{ include.talk.slide }}" target="_blank" class="talk__media">
+          <i class="icon-television talk__icon"></i>
+          <span>slides</span>
+        </a>
       {% endif %}
       {% if include.talk.video %}
-        <a href="{{ include.talk.video }}" target="_blank" class="talk__video">video</a>
+        <a href="{{ include.talk.video }}" target="_blank" class="talk__media">
+          <i class="icon-youtube-1 talk__icon"></i>
+          <span>video</span>
+        </a>
       {% endif %}
 
 
