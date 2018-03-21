@@ -8,7 +8,7 @@
   speaker_id: stefania-mellai
   title: "'arduino-sass' - Custom SASS framework, dal design all'implementazione"
   keynote: false
-  slide: https://www.slideshare.net/AndreaBarghigiani/modifichiamo-le-svg-con-i-css
+  slide: https://smellai.github.io/cssday2018/
   extract: >
    Storia della nascita di un framework per il riuso di componenti UI che contribuiscono alla definizione del brand aziendale (Arduino - https://www.arduino.cc). Implementazione ed evoluzione di una libreria SASS con variabili, tipografia e mixin. Integrazione con tool standard di gestione delle dipendenze (npm).
 -
